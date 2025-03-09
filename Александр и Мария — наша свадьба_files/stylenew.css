@@ -1,0 +1,43 @@
+
+
+@media (max-width: 1200px) {
+    .section_noborder {
+        height: 800px;;
+    }
+}
+
+@media (max-width: 1051px) {
+    .section_noborder {
+        height: 700px;;
+    }
+}
+
+@media (max-width: 875px) {
+    .section_noborder {
+        height: 650px;;
+    }
+}
+
+@media (max-width: 770px) {
+    .section_noborder {
+        height: 600px;;
+    }
+}
+
+@media (max-width: 550px) {
+    .section_noborder {
+        height: 500px;;
+    }
+}
+
+@media (max-width: 430px) {
+    .section_noborder {
+        height: 350px;;
+    }
+}
+
+@media (max-width: 375px) {
+    .section_noborder {
+        height: 300px;;
+    }
+}
